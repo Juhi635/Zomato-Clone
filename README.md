@@ -31,3 +31,5 @@ The Zomato page clone is built using HTML for the structure and CSS for styling.
 ## Credits
 
 This project is hosted on https://vercel.com/ 🌐
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/450c2cd2-419c-4616-bca7-98f2c5bf2f37">
