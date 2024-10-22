@@ -6,7 +6,7 @@ This project is a clone of the Zomato webpage's main layout, recreated using HTM
 
 ## Live Demo
 
-Explore the live demo of the Zomato page clone ➡️ https://zomato-page-clone.vercel.app/
+Explore the live demo of the Zomato page [here](https://zomato-page-clone.vercel.app/).
 
 ## Features
 
